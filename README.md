@@ -8,3 +8,4 @@ Please cite our work if you find the repo useful in your research. "d’Arco, Al
 
 contact: alexandra.darco@lkb.ens.fr or fei.xia@lkb.ens.fr// version 06/2022
 
+license: MIT
